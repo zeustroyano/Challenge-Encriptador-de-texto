@@ -1,6 +1,6 @@
-<div align="center"><img src="img/logo-aluralatam-oracle.svg" width="200"/></div>
-<div align="center"><img src="img/rh03-one-v-black-lad2.png" width="100"/></div>
-<div align="center"><img src="img/logo.svg" width="64"/></div>
+<div align="center"><img src="IMG/logo-aluralatam-oracle.svg" width="200"/></div>
+<div align="center"><img src="IMG/rh03-one-v-black-lad2.png" width="100"/></div>
+<div align="center"><img src="IMG/logo.svg" width="64"/></div>
 
 <div align="center">
     <img src="https://img.shields.io/badge/JavaScript-5A5A5A?logo=javascript&logoColor=yelllow"/>
