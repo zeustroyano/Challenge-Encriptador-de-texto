@@ -1,4 +1,4 @@
-## **Encriptador de Mensajes Secreta: ¡Tu Caja Fuerte Digital!**
+## **Challenge ONE - Encriptador de texto.!**
 
 ### **Solución al Challenge - Encriptador de Texto de Oracle Next Education (ONE)**
 
@@ -45,11 +45,3 @@ flowchart TD
     H --> I[Reiniciar]
     I --> A
     I --> J[Fin]
-
-
-**Estructura del proyecto:**
-encriptador/
-├── index.html
-├── style.css
-├── script.js
-└── README.md
