@@ -16,7 +16,7 @@
 
 Este proyecto representa la resolución del primer reto de la formación Oracle Next Education (ONE) de Oracle + Alura Latam, utilizando las tecnologías HTML5, CSS3 y JavaScript. El objetivo principal era construir una aplicación web funcional que permitiera a los usuarios encriptar y desencriptar texto de manera sencilla.
 
-**Sitio web:** [Challenge-Encriptador-de-texto]((https://zeustroyano.github.io/Challenge-Encriptador-de-texto/)
+**Sitio web:** [Challenge-Encriptador-de-texto](https://zeustroyano.github.io/Challenge-Encriptador-de-texto/)
 
 **¿Qué hace este proyecto?**
 
