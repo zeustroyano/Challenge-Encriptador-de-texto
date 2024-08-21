@@ -1,4 +1,16 @@
-## **Challenge ONE - Encriptador de texto.!**
+<div align="center"><img src="img/logo-aluralatam-oracle.svg" width="200"/></div>
+<div align="center"><img src="img/rh03-one-v-black-lad2.png" width="100"/></div>
+<div align="center"><img src="img/logo.svg" width="64"/></div>
+
+<div align="center">
+    <img src="https://img.shields.io/badge/JavaScript-5A5A5A?logo=javascript&logoColor=yelllow"/>
+    <img src="https://img.shields.io/badge/HTML-5A5A5A?logo=html5" />
+    <img src="https://img.shields.io/badge/CSS-5A5A5A?logo=css3&logoColor=01A3D8" />
+</div>
+
+
+
+## **🔏 Challenge ONE - Encriptador de texto.!**
 
 ### **Solución al Challenge - Encriptador de Texto de Oracle Next Education (ONE)**
 
@@ -13,6 +25,12 @@ Este proyecto representa la resolución del primer reto de la formación Oracle 
   * **o** -> ober
   * **u** -> ufat
 * **Desencriptación:** Devuelve el texto a su formato original, descifrando el código generado.
+  
+* ** ✔️ Requisitos**
+
+- Debe funcionar solo con letras minúsculas.
+- No deben ser utilizados letras con acentos ni caracteres especiales.
+- Debe ser posible convertir una palabra para la versión encriptada también devolver una palabra encriptada para su versión original.
 
 **Tecnologías utilizadas:**
 
