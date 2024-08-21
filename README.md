@@ -28,7 +28,7 @@ Este proyecto representa la resolución del primer reto de la formación Oracle 
   * **u** -> ufat
 * **Desencriptación:** Devuelve el texto a su formato original, descifrando el código generado.
   
-* ** ✔️ Requisitos**
+**✔️ Requisitos**
 
 - Debe funcionar solo con letras minúsculas.
 - No deben ser utilizados letras con acentos ni caracteres especiales.
